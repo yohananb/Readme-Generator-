@@ -72,25 +72,6 @@ ${data.description}
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   ## License
   ${renderLicenseBadge(data.license)}
   `;
